@@ -93,15 +93,6 @@ With a strong foundation in software engineering principles, I thrive in cross-f
 
 ---
 
-## 📜 Certifications
-
-- **AWS Certified Developer – Associate**  
-- **Cypress.io Test Automation Certification**  
-- **Google Analytics for Beginners Certification**  
-- **JavaScript Algorithms and Data Structures Certification** (freeCodeCamp)
-
----
-
 ## 🌱 Professional Development
 
 - Engaging in ongoing learning through **Stack Overflow**, **GitHub**, and other tech communities.  
