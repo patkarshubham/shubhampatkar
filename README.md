@@ -108,3 +108,12 @@ With a strong foundation in software engineering principles, I thrive in cross-f
 
 ### **Let’s Connect!**  
 Feel free to reach out to me for collaboration opportunities or if you’d like to discuss software development, **AI**, **cloud technologies**, or even some **cool web development projects**! 😊
+
+
+👋 Hi, I'm **Shubham Patkar**, an Associate Software Engineer passionate about full-stack development, automation, and AI integration. I specialize in building scalable web applications with **Next.js**, **React.js**, **Node.js**, and **AWS**. 
+
+💻 Skilled in **Cypress.io** for test automation and experienced with **WordPress** and **Wix** for web development. I’m always exploring new technologies, focusing on optimizing web performance and delivering innovative solutions.
+
+🚀 Currently working with **CAI Stack** to automate and test platform features and improve CI/CD pipelines.
+
+🔗 Let's connect: [LinkedIn](https://www.linkedin.com/in/shubham-patkar) | [GitHub](https://github.com/shubhampatkar)
